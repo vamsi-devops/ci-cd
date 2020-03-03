@@ -1,0 +1,3 @@
+#!/bin/bash
+kubectl create -f deploy.yml
+kubectl create -f service.yml
